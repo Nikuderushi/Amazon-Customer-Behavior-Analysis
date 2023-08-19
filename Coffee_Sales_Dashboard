@@ -1,0 +1,24 @@
+# Coffee Sales Dashboard README
+
+## Overview
+Welcome to the Coffee Sales Dashboard! This Excel-based dashboard provides a visual representation of coffee sales data, offering insights into various key performance indicators (KPIs). The dashboard uses PivotTables and slicers to enable interactive filtering and dynamic updates.
+
+## Features
+- **PivotTables and Slicers:** The dashboard leverages Excel's PivotTables and slicers to allow users to filter data based on various criteria such as date ranges and coffee types.
+- **Dynamic Updates:** As you interact with the slicers and adjust filters, the displayed data in the PivotTable and corresponding card sections will automatically update to reflect your selections.
+- **Visual Summaries:** The dashboard includes visually enhanced "card-like" sections that display calculated KPIs such as total sales, total quantity sold, and more.
+
+## How to Use
+
+1. **Download:** Download the Excel file (`CoffeeSalesDashboard.xlsx`) to your computer.
+2. **Open the Dashboard:** Open the Excel file using Microsoft Excel or a compatible spreadsheet application.
+3. **Interact with Slicers:** Use the slicers provided in the dashboard to filter the data. For example, you can select specific date ranges or coffee types to focus on.
+4. **View Dynamic Updates:** As you change the slicer selections, notice how the data in the PivotTable and the corresponding card sections automatically update to reflect your choices.
+5. **Explore KPIs:** Explore the visually enhanced "card-like" sections to see calculated KPIs and insights related to coffee sales.
+
+## Limitations
+
+- While the dashboard offers some level of interactivity and dynamic updates, it may not match the capabilities of dedicated data visualization tools such as Power BI or Tableau.
+- The dashboard's capabilities are best suited for relatively simple analyses and presentations.
+
+Thank you for using the Coffee Sales Dashboard! We hope you find it valuable for analyzing and presenting your coffee sales data.
